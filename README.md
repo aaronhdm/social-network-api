@@ -3,7 +3,7 @@
   
   ## Description
   
-  Strictly a backend only application for a social network API.
+  Strictly a backend only application for a social network API
   
   ## Table of Contents
   
@@ -12,9 +12,7 @@
   3. [Usage](#usage)
   4. [License](#license)
   5. [Contributors](#contributors)
-  6. [Tests](#tests)
-  7. [Questions](#questions)
-  
+  6. [Questions](#questions)
   
   ## Installation
   
@@ -22,18 +20,14 @@
   
   ## Usage
   
-  Run by "npm start" in terminal. Then use corresponding endpoints in Insomnia.
+  Run by "npm start" in terminal. Then use corresponding endpoints in Insomnia
   
   ## License
-  This project is protected under the MIT License.
+  This project is protected under the MIT License
   
   ## Contributors
   
   [Aaron Hernandez](https://github.com/aaronhdm)
-  
-  ## Tests
-  
-  No
   
   ## Questions
   
